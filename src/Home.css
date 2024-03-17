@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .logo {
+    position: absolute;
+    top: 20px;
+    left: 20px;
+  }
+  .genie-image {
+    width: 30px; 
+    height: 30px; 
+    top: 30px;
+    left: 30px;
+  }
+  .search-bar {
+    width: 300px; 
+    height: 50px; 
+    font-size: 16px;
+  }
